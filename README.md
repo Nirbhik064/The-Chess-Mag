@@ -1,1 +1,1 @@
-# The-Chess-Mag-
+# The-Chess-Mag
